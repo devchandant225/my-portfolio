@@ -1,0 +1,100 @@
+[
+  {
+    "title": "React Js",
+    "image": "/tech&tools/atom.svg"
+  },
+  {
+    "title": "Next Js",
+    "image": "/tech&tools/Nextjs.svg"
+  },
+  {
+    "title": "Node Js",
+    "image": "/tech&tools/nodejs.svg"
+  },
+  {
+    "title": "Laravel",
+    "image": "/tech&tools/laravel.png"
+  },
+  {
+    "title": "Django",
+    "image": "/tech&tools/django.svg"
+  },
+  {
+    "title": "Python",
+    "image": "/tech&tools/python.png"
+  },
+  {
+    "title": "PHP",
+    "image": "/tech&tools/php.png"
+  },
+  {
+    "title": "Javascript",
+    "image": "/tech&tools/javascript.svg"
+  },
+
+  {
+    "title": "HTML5",
+    "image": "/tech&tools/html.svg"
+  },
+  {
+    "title": "Css3",
+    "image": "/tech&tools/css3.svg"
+  },
+  {
+    "title": "SASS/SCSS",
+    "image": "/tech&tools/sass.png"
+  },
+  {
+    "title": "Tailwind",
+    "image": "/tech&tools/tailwind.svg"
+  },
+  {
+    "title": "BootStrap",
+    "image": "/tech&tools/bootstrap.png"
+  },
+  {
+    "title": "Materialize",
+    "image": "/tech&tools/materialize.png"
+  },
+
+  {
+    "title": "Mongo DB",
+    "image": "/tech&tools/mongodb.svg"
+  },
+  {
+    "title": "SQL",
+    "image": "/tech&tools/sql.png"
+  },
+  {
+    "title": "PostGreSQL",
+    "image": "/tech&tools/PostgreSql.svg"
+  },
+  {
+    "title": "Github",
+    "image": "/tech&tools/github.svg"
+  },
+  {
+    "title": "Docker",
+    "image": "/tech&tools/docker.svg"
+  },
+  {
+    "title": "NPM",
+    "image": "/tech&tools/npm.svg"
+  },
+  {
+    "title": "Figma",
+    "image": "/tech&tools/figma.svg"
+  },
+  {
+    "title": "WordPress",
+    "image": "/tech&tools/wordpress.png"
+  },
+  {
+    "title": "SEO",
+    "image": "/tech&tools/seo.png"
+  },
+  {
+    "title": "MicroServices",
+    "image": "/tech&tools/micro.png"
+  }
+]
